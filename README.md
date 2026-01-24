@@ -8,12 +8,6 @@
 
 <h4 align="left">I'm studying computer engineering at IFPB (2024-****). I am always looking to evolve and improve my skills as a professional in the computing field.</h4>
 
-###
-
-<h1 align="left"></h1>
-
-###
-
 <h1 align="left"></h1>
 
 ###
@@ -32,19 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
-
-###
-
-<h1 align="left"></h1>
-
-###
-
-<h3 align="left">Studying at moment 📖</h3>
-
-###
-
-<div align="left">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
@@ -52,14 +34,4 @@
 
 <h1 align="left"></h1>
 
-###
 
-<h3 align="left">Contact 📞</h3>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
-
-###
