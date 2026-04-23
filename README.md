@@ -46,4 +46,16 @@
 
 ###
 
+
 <h1 align="left"></h1>
+<h3 align="left">GitHub Stats 📊</h3>
+
+###
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=caua-an&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+</div>
+<h1 align="left"></h1>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-an&layout=compact&langs_count=8&theme=dark" />
+</div>
