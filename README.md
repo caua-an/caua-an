@@ -21,8 +21,9 @@
     tools       = Git, GitHub, Linux
 
 + [data-ai]
-    stack       = SQL, MySQL
+    stack       = SQL, MySQL, Pandas, NumPy, Scikit-Learn
     practices   = Relational Modeling, Database Query and Management
+    ai-ml       = Supervised Learning, Binary Classification, Data Preprocessing
 
 + [front-end]
     stack       = HTML5, CSS3, JavaScript
