@@ -30,4 +30,4 @@
 ```
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=9999&color=13F000&vCenter=true&width=435&height=20&lines=stats.log%3A" alt="Typing SVG" /></a>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=caua-an&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&bg_color=000000&title_color=00FF00&text_color=00FF00&hide_border=true&icon_color=00FF00&&cache_seconds=86400)](https://github-stats-extended.vercel.app/api?username=caua-an&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=caua-an&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&bg_color=000000&title_color=00FF00&text_color=00FF00&hide_border=true&icon_color=00FF00&&cache_seconds=1800)](https://github-stats-extended.vercel.app/api?username=caua-an&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark)
